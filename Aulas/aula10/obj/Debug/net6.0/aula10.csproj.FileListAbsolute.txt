@@ -1,0 +1,15 @@
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\bin\Debug\net6.0\aula10.exe
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\bin\Debug\net6.0\aula10.deps.json
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\bin\Debug\net6.0\aula10.runtimeconfig.json
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\bin\Debug\net6.0\aula10.dll
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\bin\Debug\net6.0\aula10.pdb
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\aula10.csproj.AssemblyReference.cache
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\aula10.GeneratedMSBuildEditorConfig.editorconfig
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\aula10.AssemblyInfoInputs.cache
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\aula10.AssemblyInfo.cs
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\aula10.csproj.CoreCompileInputs.cache
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\aula10.dll
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\refint\aula10.dll
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\aula10.pdb
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\aula10.genruntimeconfig.cache
+J:\Backups\BackupC\dev\bootcamps\dotnet\aula10\obj\Debug\net6.0\ref\aula10.dll

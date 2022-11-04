@@ -1,0 +1,15 @@
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\bin\Debug\net6.0\aula4.exe
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\bin\Debug\net6.0\aula4.deps.json
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\bin\Debug\net6.0\aula4.runtimeconfig.json
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\bin\Debug\net6.0\aula4.dll
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\bin\Debug\net6.0\aula4.pdb
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\aula4.csproj.AssemblyReference.cache
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\aula4.GeneratedMSBuildEditorConfig.editorconfig
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\aula4.AssemblyInfoInputs.cache
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\aula4.AssemblyInfo.cs
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\aula4.csproj.CoreCompileInputs.cache
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\aula4.dll
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\refint\aula4.dll
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\aula4.pdb
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\aula4.genruntimeconfig.cache
+J:\Backups\BackupC\dev\bootcamps\.net\aula4\obj\Debug\net6.0\ref\aula4.dll

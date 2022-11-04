@@ -1,0 +1,15 @@
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\Desafio #1.csproj.AssemblyReference.cache
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\Desafio #1.GeneratedMSBuildEditorConfig.editorconfig
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\Desafio #1.AssemblyInfoInputs.cache
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\Desafio #1.AssemblyInfo.cs
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\Desafio #1.csproj.CoreCompileInputs.cache
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\bin\Debug\net6.0\Desafio #1.exe
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\bin\Debug\net6.0\Desafio #1.deps.json
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\bin\Debug\net6.0\Desafio #1.runtimeconfig.json
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\bin\Debug\net6.0\Desafio #1.dll
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\bin\Debug\net6.0\Desafio #1.pdb
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\Desafio #1.dll
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\refint\Desafio #1.dll
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\Desafio #1.pdb
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\Desafio #1.genruntimeconfig.cache
+J:\Backups\BackupC\dev\bootcamps\dotnet\Desafio #1\obj\Debug\net6.0\ref\Desafio #1.dll
